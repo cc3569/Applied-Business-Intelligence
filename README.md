@@ -1,1 +1,1 @@
-# Applied-Business-Intelligence
+# NAU BAN 540: Applied Business Intelligence
